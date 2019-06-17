@@ -1,3 +1,4 @@
 This is my first git training file
 
 there is change
+directly commit by ignoring staging area
