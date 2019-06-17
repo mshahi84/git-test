@@ -1,6 +1,5 @@
-This is my first git training file
+git pull origin master --allow-unrelated-histories
+git cat-file -p <hash value>  ---- to see the file content
+git cat-file -t <hash value>  ---- to see the contnet type
+echo "Hello world"| git hash-object -w --stdin  ---- to see the hash value of content
 
-there is change
-directly commit by ignoring staging area
-
-Some more changeds
