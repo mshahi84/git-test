@@ -2,4 +2,4 @@ git pull origin master --allow-unrelated-histories
 git cat-file -p <hash value>  ---- to see the file content
 git cat-file -t <hash value>  ---- to see the contnet type
 echo "Hello world"| git hash-object -w --stdin  ---- to see the hash value of content
-
+git branch  ----- to see the current working branch
